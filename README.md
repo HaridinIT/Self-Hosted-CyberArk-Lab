@@ -1,7 +1,7 @@
 <h1>Self Hosted CyberArk Lab</h1>
 
 <h2>Description</h2>
-In this project, Azure Key Vault was integrated with an Azure SQL Database to implement Always Encrypted. This involved creating a Key Vault, managing encryption keys, and securing sensitive data at rest and in transit. The project demonstrated methods to enhance data confidentiality and meet compliance standards using Azure's advanced encryption features.
+This project involved the creation of a self-hosted CyberArk lab to simulate enterprise-level Privileged Access Management (PAM) operations. Utilizing a virtualized environment, I deployed CyberArk components, including the Digital Vault, Password Vault Web Access (PVWA), Privileged Session Manager (PSM), and Central Policy Manager (CPM). The lab was integrated with Active Directory for centralized authentication and account management, enabling secure onboarding of privileged accounts. I also configured password rotation policies, session monitoring, and audit logging to demonstrate real-world PAM workflows and security best practices. 
 <br />
 
 <h2>Languages and Environments Used (PaaS Components) </h2>
@@ -105,4 +105,4 @@ Deploy and Configure PSM Server and IP Settings<br/>
 <br />
 <br />
 <h2>Conclusion:</h2>
-The project showcased the effective integration of Azure Key Vault with Always Encrypted to secure sensitive data in Azure SQL Database. By implementing key management and encryption practices, the project emphasized the importance of safeguarding critical information, ensuring confidentiality, and meeting compliance requirements in cloud-based environments.
+This self-hosted CyberArk lab showcased my ability to deploy, configure, and manage a Privileged Access Management solution from the ground up. By simulating real-world PAM operations, I reinforced my hands-on experience in securing privileged accounts, automating credential lifecycle management, and enhancing session security through monitoring and audit capabilities. The project highlights my proficiency in CyberArk implementation and my commitment to mastering IAM technologies essential for modern enterprise security.
